@@ -1,0 +1,4 @@
+#Wed Jun 27 14:35:00 CST 2018
+base.0=C\:\\Users\\qqq\\Downloads\\android-NavigationDrawer-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
